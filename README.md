@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ali Gunes.
 - 👀 I’m interested in Games, Apps and Website Developments!
 - 🌱 I’m currently learning C# , Python, PHP, JavaScript, CSS, HTML!
-- 💞️ I’m looking to collaborate on game and app developers.
 - 📫 How to reach me: on e-mail (aligunesv2@gmail.com)
