@@ -2,3 +2,4 @@
 - 👀 I’m interested in Games, Apps, Website Developments, and Designs!
 - 🌱 I’m currently learning C# , Python, SQL, JavaScript, CSS, HTML!
 - 📫 How to reach me: on e-mail (aligunesv2@gmail.com)
+- 👀 You can read my essays here! https://aligunesv2.medium.com/
