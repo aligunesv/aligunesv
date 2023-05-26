@@ -10,10 +10,10 @@ I'm 20 years old and I'm a frontend developer. Here are some of the technologies
 
 📫 You can reach me via:
 
-- Email: aligunesv2@mail.com
-- LinkedIn: [Check it!](https://www.linkedin.com/in/aligunesv1/)
-- Twitter: [Check it!](https://twitter.com/aligvnes)
-- Website: [imvora.dev](https://www.imvora.dev/)
+- [E-Mail](aligunesv2@mail.com)
+- [LinkedIn](https://www.linkedin.com/in/aligunesv1/)
+- [Twitter](https://twitter.com/aligvnes)
+- [imvora.dev](https://www.imvora.dev/)
 
 ## Projects
 
