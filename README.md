@@ -2,7 +2,7 @@
 
 I'm 20 years old and I'm a frontend developer. Here are some of the technologies and skills I work with:
 
-🌐 Web Technologies: HTML, CSS, JavaScript
+🌐 Web Technologies: HTML, CSS, JavaScript, Electron
 
 💻 Programming Languages: C#, Python, SQL
 
