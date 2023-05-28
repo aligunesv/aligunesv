@@ -1,5 +1,7 @@
 # Hello there! 👋 I'm Ali
 
+![](https://komarev.com/ghpvc/?username=aligunesv&style=flat-square)
+
 I'm 20 years old and I'm a frontend developer. Here are some of the technologies and skills I work with:
 
 🌐 Web Technologies: HTML, CSS, JavaScript, Electron
