@@ -21,11 +21,12 @@ I'm 20 years old and I'm a frontend developer. Here are some of the technologies
 
 🚀 Here are some of my projects:
 
-1. **CRUD Website with Local Storage**: This project is a CRUD (Create, Read, Update, Delete) web application developed using HTML, CSS and JavaScript
-   - Technologies Used: HTML, CSS, JS
-   - [Live Demo](https://github.com/aligunesv/local-storage-crud-website) | [GitHub Repo](https://github.com/aligunesv/local-storage-crud-website)
+1. **100projects100day**: In this project, a different project is developed every day to improve programming skills.
 
-2. **FolderMate**: FolderMate is a simple desktop application built with PyQt5 that allows users to search for files with a specified file extension in a selected folder and its subfolders.
+   - Technologies Used: HTML, CSS, JS
+   - [Live Demo](https://github.com/aligunesv/100projects100day) | [GitHub Repo](https://github.com/aligunesv/100projects100day)
+
+3. **FolderMate**: FolderMate is a simple desktop application built with PyQt5 that allows users to search for files with a specified file extension in a selected folder and its subfolders.
    - Technologies Used: Python
    - [Live Demo](https://github.com/aligunesv/FolderMate) | [GitHub Repo](https://github.com/aligunesv/FolderMate)
 
