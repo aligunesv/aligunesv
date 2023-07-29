@@ -26,7 +26,7 @@ I'm 20 years old and I'm a frontend developer. Here are some of the technologies
    - Technologies Used: HTML, CSS, JS
    - [Live Demo](https://github.com/aligunesv/100projects100day) | [GitHub Repo](https://github.com/aligunesv/100projects100day)
 
-3. **FolderMate**: FolderMate is a simple desktop application built with PyQt5 that allows users to search for files with a specified file extension in a selected folder and its subfolders.
+3. **FolderMate**: FolderMate is a simple desktop application built with PyQt5 that allows users to search for files with a specified file extension in a selected folder and its subfolders!
    - Technologies Used: Python
    - [Live Demo](https://github.com/aligunesv/FolderMate) | [GitHub Repo](https://github.com/aligunesv/FolderMate)
 
