@@ -1,4 +1,3 @@
-Github readme file
 <h1 align="center">Hi 👋, I'm Ali Gunes</h1>
 <h3 align="center">A frontend web developer from Turkey</h3>
 
