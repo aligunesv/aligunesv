@@ -1,39 +1,42 @@
-# Hello there! 👋 I'm Ali
+Github readme file
+<h1 align="center">Hi 👋, I'm Ali Gunes</h1>
+<h3 align="center">A frontend web developer from Turkey</h3>
 
-![](https://komarev.com/ghpvc/?username=aligunesv&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aligunesv&label=Profile%20views&color=0e75b6&style=flat" alt="aligunesv" /> </p>
 
-I'm 20 years old and I'm a frontend developer. Here are some of the technologies and skills I work with:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌐 Web Technologies: HTML, CSS, JavaScript, Electron
+- 🔭 I’m currently working on [100Project100Days](https://github.com/aligunesv/100projects100day)
 
-💻 Programming Languages: C#, Python, SQL
+- 🌱 I’m currently learning **SQL, AI, Machine Learning**
 
-⚡ Interesting: AI, Machine Learning.
+- 👨‍💻 All of my projects are available at [https://github.com/aligunesv](https://github.com/aligunesv)
 
-📫 You can reach me via:
+- 📝 I regularly write articles on [https://aligunesv2.medium.com](https://aligunesv2.medium.com)
 
-- E-Mail: aligunesv2@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/aligunesv1/)
-- [Twitter](https://twitter.com/aligvnes)
-- [imvora.dev](https://www.imvora.dev/)
+- 💬 Ask me about **react, html and css**
 
-## Projects
+- 📫 How to reach me **aligunesv2@gmail.com**
 
-🚀 Here are some of my projects:
+- 📄 Know about my experiences [https://www.linkedin.com/in/aligunesv1/](https://www.linkedin.com/in/aligunesv1/)
 
-1. **100projects100day**: In this project, a different project is developed every day to improve programming skills.
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-   - Technologies Used: HTML, CSS, JS
-   - [Live Demo](https://github.com/aligunesv/100projects100day) | [GitHub Repo](https://github.com/aligunesv/100projects100day)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aligunesv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aligunesv1" height="30" width="40" /></a>
+<a href="https://instagram.com/aligunes.psd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aligunes.psd" height="30" width="40" /></a>
+<a href="https://www.behance.net/a2v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="a2v" height="30" width="40" /></a>
+<a href="https://medium.com/@aligunesv2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aligunesv2" height="30" width="40" /></a>
+</p>
 
-2. **Simple Portfolio Template**: Simple-Portfolio-Template is a simple single-page portfolio website template built using React.js and TailwindCSS!
-   - Technologies Used: React.js, TailwindCSS, HTML, CSS, JS
-   - [Live Demo](https://github.com/aligunesv/Simple-Portfolio-Template/tree/main) | [GitHub Repo](https://github.com/aligunesv/Simple-Portfolio-Template/tree/main)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-3. **FolderMate**: FolderMate is a simple desktop application built with PyQt5 that allows users to search for files with a specified file extension in a selected folder and its subfolders!
-   - Technologies Used: Python
-   - [Live Demo](https://github.com/aligunesv/FolderMate) | [GitHub Repo](https://github.com/aligunesv/FolderMate)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligunesv&show_icons=true&locale=en&layout=compact" alt="aligunesv" /></p>
 
-✨ You can check out more of my projects [here](https://www.imvora.dev).
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aligunesv&show_icons=true&locale=en" alt="aligunesv" /></p>
 
-Feel free to use this README template as a reference and customize it with your own information. Don't forget to add your projects and provide links to live demos or GitHub repositories. Good luck! ✌️
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aligunesv&" alt="aligunesv" /></p>
