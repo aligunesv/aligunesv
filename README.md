@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://aligunesv2.medium.com](https://aligunesv2.medium.com)
 
-- 💬 Ask me about **react, html and css**
+- 💬 Ask me about **React, HTML and CSS**
 
 - 📫 How to reach me **aligunesv2@gmail.com**
 
