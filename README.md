@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [100Project100Days](https://github.com/aligunesv/100projects100day)
 
-- 🌱 I’m currently learning **SQL, AI, Machine Learning**
+- 🌱 I’m currently learning **SQL, REACT, TAILWINDCSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aligunesv](https://github.com/aligunesv)
 
