@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [100Project100Days](https://github.com/aligunesv/100projects100day)
+- 🔭 I’m currently working on **[100Project100Days](https://github.com/aligunesv/100projects100day)**
 
 - 🌱 I’m currently learning **SQL, REACT, TAILWINDCSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aligunesv](https://github.com/aligunesv)
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/aligunesv)**
 
-- 📝 I regularly write articles on [https://aligunesv2.medium.com](https://aligunesv2.medium.com)
+- 📝 I regularly write articles on **[Medium](https://aligunesv2.medium.com)**
 
 - 💬 Ask me about **React, HTML and CSS**
 
 - 📫 How to reach me **aligunesv2@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aligunesv1/](https://www.linkedin.com/in/aligunesv1/)
+- 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/aligunesv1/)**
 
 ### Blogs posts
 [What to Download After Formatting Your Windows Computer?](https://aligunesv2.medium.com/what-to-download-after-formatting-your-windows-computer-e0d1cf882caf) (EN) |
