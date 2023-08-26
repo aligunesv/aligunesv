@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **[100Project100Days](https://github.com/aligunesv/100projects100day)**
-
 - 🌱 I’m currently learning **SQL, REACT, TAILWINDCSS**
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/aligunesv)**
