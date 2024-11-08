@@ -20,8 +20,10 @@
 - Explore my website **[imvora.dev](https://www.imvora.dev)**
 
 ### Blogs posts
-[What to Download After Formatting Your Windows Computer?](https://aligunesv2.medium.com/what-to-download-after-formatting-your-windows-computer-e0d1cf882caf) (EN) |
-[11 plugins for you that you may need while using VSCode!](https://aligunesv2.medium.com/11-plugins-for-you-that-you-may-need-while-using-vscode-2dffb96a4139) (EN) |
+[What to Download After Formatting Your Windows Computer?](https://aligunesv2.medium.com/what-to-download-after-formatting-your-windows-computer-e0d1cf882caf) (EN) 
+
+[11 plugins for you that you may need while using VSCode!](https://aligunesv2.medium.com/11-plugins-for-you-that-you-may-need-while-using-vscode-2dffb96a4139) (EN) 
+
 [Açık Kaynak Kodlu Yazılımlar: Güvenlik, Esneklik ve Ekonomi](https://aligunesv2.medium.com/a%C3%A7%C4%B1k-kaynak-kodlu-yaz%C4%B1l%C4%B1mlar-g%C3%BCvenlik-esneklik-ve-ekonomi-5214cdfc9493) (TR)
 
 
