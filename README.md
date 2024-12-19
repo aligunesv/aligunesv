@@ -17,7 +17,9 @@
 
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/aligunesv1/)**
 
-- Explore my website **[imvora.dev](https://www.imvora.dev)**
+- 🌐 Explore my portfolio **[aligunes.me](https://aligunes.me)**
+
+- 🌐 Explore my website **[imvora.dev](https://www.imvora.dev)**
 
 ### Blogs posts
 [What to Download After Formatting Your Windows Computer?](https://aligunesv2.medium.com/what-to-download-after-formatting-your-windows-computer-e0d1cf882caf) (EN) 
