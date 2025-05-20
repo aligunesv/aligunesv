@@ -21,20 +21,12 @@
 
 - 🌐 Explore my website **[imvora.dev](https://www.imvora.dev)**
 
-### Blogs posts
-[What to Download After Formatting Your Windows Computer?](https://aligunesv2.medium.com/what-to-download-after-formatting-your-windows-computer-e0d1cf882caf) (EN) 
-
-[11 plugins for you that you may need while using VSCode!](https://aligunesv2.medium.com/11-plugins-for-you-that-you-may-need-while-using-vscode-2dffb96a4139) (EN) 
-
-[Açık Kaynak Kodlu Yazılımlar: Güvenlik, Esneklik ve Ekonomi](https://aligunesv2.medium.com/a%C3%A7%C4%B1k-kaynak-kodlu-yaz%C4%B1l%C4%B1mlar-g%C3%BCvenlik-esneklik-ve-ekonomi-5214cdfc9493) (TR)
+-  Blog Posts **[blog.aligunes.me](https://blog.aligunes.me)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aligunesv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aligunesv1" height="30" width="40" /></a>
-<a href="https://instagram.com/aligunes.psd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aligunes.psd" height="30" width="40" /></a>
-<a href="https://www.behance.net/a2v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="a2v" height="30" width="40" /></a>
-<a href="https://medium.com/@aligunesv2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aligunesv2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
