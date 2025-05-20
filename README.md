@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Ali.</h1>
+<h1 align="center">Hi 👋, I'm Ali.</h1>
 <h3 align="center">I tell stories through design, build tools with code, and keep things running with IT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligunesv&label=Profile%20views&color=0e75b6&style=flat" alt="aligunesv" /> </p>
