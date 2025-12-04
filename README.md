@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Unofy](https://apps.apple.com/tr/app/unofy-al%C4%B1%C5%9Fkanl%C4%B1k-odak/id6745094777?l=tr)
 
-- 🌱 I’m currently learning **SQL, SWIFT, REACT, EXPO, NODE.js, API's**
+- 🌱 I’m currently learning **SQL, SWIFT, REACT, EXPO, NODE.js, API's, DEVOPS**
 
 - 👨‍💻 All of my projects are available at [https://aligunes.me](https://aligunes.me)
 
