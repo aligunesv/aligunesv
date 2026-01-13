@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligunesv&label=Profile%20views&color=0e75b6&style=flat" alt="aligunesv" /> </p>
 
-- 🔭 I’m currently working on [Unofy](https://apps.apple.com/tr/app/unofy-al%C4%B1%C5%9Fkanl%C4%B1k-odak/id6745094777?l=tr)
+- 🔭 I’m currently working on Cloud & DevOps
 
-- 🌱 I’m currently learning **SQL, SWIFT, REACT, EXPO, NODE.js, API's, DEVOPS**
+- 🌱 I’m currently learning **Linux Server, Self Hosting, Docker, Cloud, DEVOPS**
 
 - 👨‍💻 All of my projects are available at [https://aligunes.me](https://aligunes.me)
 
